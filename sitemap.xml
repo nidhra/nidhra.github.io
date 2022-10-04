@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.nidhra.com/blog/</loc>
+    <loc>https://www.nidhra.com/fr/blog/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.nidhra.com/blog/krabby_patty/</loc>
+    <loc>https://www.nidhra.com/en/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nidhra.com/fr/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nidhra.com/en/blog/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.nidhra.com/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.nidhra.com/tags/recipe/</loc>
+    <loc>https://www.nidhra.com/en/blog/krabby_patty/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.nidhra.com/tags/</loc>
+    <loc>https://www.nidhra.com/fr/blog/krabby_patty/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.nidhra.com/about/</loc>
+    <loc>https://www.nidhra.com/fr/about/</loc>
   </url><url>
-    <loc>https://www.nidhra.com/categories/</loc>
+    <loc>https://www.nidhra.com/en/about/</loc>
   </url>
 </urlset>
